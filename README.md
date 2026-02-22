@@ -19,13 +19,8 @@ This project showcases a photography studio where users can explore services, vi
 * Responsive Design (Flexbox / Grid)
 
 ## 📸 Screenshots
-(<img width="1898" height="903" alt="Screenshot 2026-02-22 122647" src="https://github.com/user-attachments/assets/1ffae625-4571-4c8a-b725-730f10808f04" />
-)
-(<img width="1898" height="903" alt="Screenshot 2026-02-22 122647" src="https://github.com/user-attachments/assets/1ffae625-4571-4c8a-b725-730f10808f04" />
-)
-(<img width="916" height="897" alt="Screenshot 2026-02-22 124048" src="https://github.com/user-attachments/assets/efe66d15-5363-4ca3-a052-537f3c257558" />
-)
-
+<img width="1898" height="903" alt="Screenshot 2026-02-22 122647" src="https://github.com/user-attachments/assets/1ffae625-4571-4c8a-b725-730f10808f04" />
+<img width="916" height="897" alt="Screenshot 2026-02-22 124048" src="https://github.com/user-attachments/assets/efe66d15-5363-4ca3-a052-537f3c257558" />
 
  📂 Project Structure
 
