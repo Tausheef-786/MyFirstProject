@@ -1,4 +1,4 @@
-<img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/5d49bb37-0b57-4a8d-9c8d-e3e501767c57" /># 📸 Crystal Clicks – Camera Studio Website
+<img width="1211" height="816" alt="Screenshot 2026-02-22 123722" src="https://github.com/user-attachments/assets/a89af178-daad-4dde-a37a-2f06ef78612b" /><img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/5d49bb37-0b57-4a8d-9c8d-e3e501767c57" /># 📸 Crystal Clicks – Camera Studio Website
 
 Crystal Clicks is a modern and responsive camera studio website built using **HTML and CSS**.
 This project showcases a photography studio where users can explore services, view portfolios, and connect with the studio for bookings.
@@ -19,9 +19,13 @@ This project showcases a photography studio where users can explore services, vi
 * Responsive Design (Flexbox / Grid)
 
 ## 📸 Screenshots
-# Home Page
-![Home Page](<img width="1898" height="903" alt="Screenshot 2026-02-22 122647" src="https://github.com/user-attachments/assets/1ffae625-4571-4c8a-b725-730f10808f04" />
+(<img width="1898" height="903" alt="Screenshot 2026-02-22 122647" src="https://github.com/user-attachments/assets/1ffae625-4571-4c8a-b725-730f10808f04" />
 )
+(<img width="1898" height="903" alt="Screenshot 2026-02-22 122647" src="https://github.com/user-attachments/assets/1ffae625-4571-4c8a-b725-730f10808f04" />
+)
+(<img width="916" height="897" alt="Screenshot 2026-02-22 124048" src="https://github.com/user-attachments/assets/efe66d15-5363-4ca3-a052-537f3c257558" />
+)
+
 
  📂 Project Structure
 
